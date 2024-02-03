@@ -1,0 +1,11 @@
+<svg width="46" height="30" fill="none" viewBox="0 0 46 30" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M 20 10 l 8 0 l 0 8 L 20 18 Z M 19 9 L 19 19 L 29 19 L 29 9 Z"
+        fill="#000" opacity=".7" />
+    <path
+        d="M 18 12 L 26 12 L 26 20 L 18 20 Z"
+        fill="#fff" opacity=".7" />
+    <path
+        d="M 18 12 L 26 12 L 26 20 L 18 20 Z M 17 11 L 17 21 L 27 21 L 27 11 Z"
+        fill="#000" opacity=".7" />
+</svg>
