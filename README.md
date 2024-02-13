@@ -70,7 +70,7 @@
 | Name          | Current                                           | Proposed Dark Theme                               | Proposed Light Theme                               |
 | ------------- | ------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
 | about         | ![about](base/settings/about.svg)                 | ![about](dark/settings/about.svg)                 | ![about](light/settings/about.svg)                 |
-| aboutlogo     | ![aboutlogo](base/settings/aboutlogo.png)         | ?                                                 | ?                                                  |
+| aboutlogo     | ![aboutlogo](base/settings/aboutlogo.png)         | ![aboutlogo](dark/settings/aboutlogo.svg)         | ![aboutlogo](light/settings/aboutlogo.svg)         |
 | accounts      | ![accounts](base/settings/accounts.svg)           | ![accounts](dark/settings/accounts.svg)           | ![accounts](light/settings/accounts.svg)           |
 | commands      | ![commands](base/settings/commands.svg)           | ![commands](dark/settings/commands.svg)           | ![commands](light/settings/commands.svg)           |
 | externaltools | ![externaltools](base/settings/externaltools.svg) | ![externaltools](dark/settings/externaltools.svg) | ![externaltools](light/settings/externaltools.svg) |
